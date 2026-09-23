@@ -1,3 +1,2 @@
 # BO1-Zombies-Bank-System
-I created the file with the help of ai google, and got this banking system to work for bo1 zombies after a couple attempts because i couldn't find any download link for bo1 zombies bank system even though servers have banking system so with the help of google ai kaboom there you go!
-it only saves when your in the game but not when you close the app the points dont save, i cant get them to save so if anyone could that would be great
+It now saves your points after closing the plutonium app and saves into your t5 folder under the "C:\Users"YOURUSERNAME"\AppData\Local\Plutonium\storage\t5\players and in the text document "config.cfg". Inside the text document if you type "snd_khz" you will see your saved points and you can adjust it to your liking.
